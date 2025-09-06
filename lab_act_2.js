@@ -1,2 +1,2 @@
 console.log("Hello Git from VS Code!");
-console.log("Hello, Rawr!s");
+console.log("Hello, Rawr!");
